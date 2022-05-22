@@ -3,6 +3,9 @@
 Yello is a dual-mode Hello world application for Amstrad CPC series computers written
 in both Locomotive BASIC and Z80 assembly.
 
+<img width="567" alt="screenshot of yello in action on a CPC emulator" src="https://user-images.githubusercontent.com/241217/169716728-6cb9bc79-98e2-4c8a-aa6b-6247bd6e64d9.png">
+
+
 # why
 
 I think @c64skate showed me such a demo on MS-DOS months ago, and it's been in my mind
