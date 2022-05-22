@@ -31,3 +31,6 @@ so we effectively update the program length, wherever it is.
 
 - Compile the assembly (I used WinApe's assembler). You'll see that the BASIC listing is changed.
 - Save the BASIC program to disk/tape.
+
+Hypothetically, you should be able to hex edit a DSK file and change the binary type to BASIC, but
+raw DSK editing capabilities are really cumbersome on WinApe, and I didn't have any other tools.
