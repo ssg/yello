@@ -1,0 +1,5 @@
+root = yes
+
+[*.asm]
+indent_size = 8
+indent_style = space
