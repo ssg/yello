@@ -9,7 +9,7 @@ in both Locomotive BASIC and Z80 assembly.
 # why
 
 I think @c64skate showed me such a demo on MS-DOS months ago, and it's been in my mind
-to do it on Amstrad CPC since.
+to do it on Amstrad CPC since. I used this Sunday as an opportunity to do it.
 
 # building
 
