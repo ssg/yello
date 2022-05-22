@@ -29,5 +29,5 @@ the code correctly I resorted to this hack:
 
 so we effectively update the program length, wherever it is.
 
-- Compile the assembly. You'll see that the BASIC listing is changed.
+- Compile the assembly (I used WinApe's assembler). You'll see that the BASIC listing is changed.
 - Save the BASIC program to disk/tape.
