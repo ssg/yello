@@ -10,7 +10,7 @@ in both Locomotive BASIC and Z80 assembly.
 
 I think [@c64skate](https://github.com/c64skate) showed me such a demo on MS-DOS months ago, and it's been on my mind
 to do it on Amstrad CPC since. I used this Sunday as an opportunity to do it. This is possibly
-one of the shortest implementations possible as the text is shared between two implementations.
+one of the shortest implementations possible (19-bytes, 11 bytes being the text) as the text is shared between two implementations.
 
 Hint: you might be able to squeeze some bytes by putting both REM and PRINT on the same line.
 
