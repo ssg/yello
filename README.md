@@ -1,7 +1,11 @@
 # yello
 
 Yello is a dual-mode Hello world application for Amstrad CPC series computers written
-in both Locomotive BASIC and Z80 assembly.
+in both Locomotive BASIC and Z80 assembly. When you load Yello as a BASIC program you can either `RUN` it or call its loading address (&170),
+it would do the same thing.
+
+You might be familiar with how BASIC and machine code are kept together by appending the code after REM statements. The interesting bit about this one is the start
+address is the start of the BASIC program, not the start of the machine code, and both the machine code and the BASIC program share the string to output.
 
 ![Yello in action](https://user-images.githubusercontent.com/241217/170187967-b090b134-de01-4994-b913-7f7fa564ed2e.png)
 
